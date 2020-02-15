@@ -1,5 +1,5 @@
 ## Meal Recommendation
-![header](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/International_Pok%C3%A9mon_logo.svg.png)
+![header](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/food.jpg)
 
 ## Description 
 Using a content based recommendation system, this project recommends the 10 most similar meals based on ingredients.
