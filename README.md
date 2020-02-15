@@ -17,10 +17,26 @@ Using a content based recommendation system, this project recommends the 10 most
    - Cosine Similarity
    - Content Based Recommendation System
 
-## Visualization of Model Confusion Matrix 
-## Baseline Model
-![img](https://github.com/toprakmehmet/pokemon_types/blob/master/pics/baseline_conf_martix.png)
+## Raw Data
+![img](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/raw_most_used_ingredients.png)
+
+## Clean Data
+![img](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/most_used_ingredient.png)
+
+## Most Used Ingredients
+# Breakfast
+![img](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/breakfast_popular_ingredients.png)
+
+# Lunch
+![img](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/lunch_popular_ingredients.png)
+
+# Dinner
+![img](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/dinner_popular_ingredients.png)
+
+# Dessert
+![img](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/dessert_popular_ingredients.png)
   
 
-## Future Applications
-As one of many avid pokemone fans out there. This model can assist in detemining the type of each pokemon and help trainers all over the digital universe to be the very best. As the nintendo company keeps releaseing new pokemone with every generation, this model can also be used to predict the type of pokemon that will be released as Pokemon does try to keep a balance in their creations.
+## Demo of the Project with Strimlit
+ Please see the below link
+https://drive.google.com/file/d/137RQtVJbKYg9_Zq37oktPsjz9c3R7vfa/view?usp=sharing
