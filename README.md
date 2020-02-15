@@ -1,5 +1,5 @@
 ## Meal Recommendation
-![header](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/food.jpg)
+![header](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/macrofit-meals.jpg)
 
 ## Description 
 Using a content based recommendation system, this project recommends the 10 most similar meals based on ingredients.
