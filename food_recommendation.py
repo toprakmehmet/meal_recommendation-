@@ -152,7 +152,7 @@ def main():
 
 # img = Image.open('food.jpg')
 # st.image(img, width = 750)
-#
+
 
 
 
