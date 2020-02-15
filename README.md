@@ -37,6 +37,6 @@ Using a content based recommendation system, this project recommends the 10 most
 ![img](https://github.com/toprakmehmet/meal_recommendation-/blob/master/pics/dessert_popular_ingredients.png)
   
 
-## Demo of the Project with Strimlit
+## Demo of the Project with Streamlit
  Please see the below link
 https://drive.google.com/file/d/137RQtVJbKYg9_Zq37oktPsjz9c3R7vfa/view?usp=sharing
